@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/petfriends/static/css/main.d43900f2.chunk.css",
+    "main.js": "/petfriends/static/js/main.c30e6022.chunk.js",
+    "main.js.map": "/petfriends/static/js/main.c30e6022.chunk.js.map",
+    "runtime-main.js": "/petfriends/static/js/runtime-main.75aa0f0a.js",
+    "runtime-main.js.map": "/petfriends/static/js/runtime-main.75aa0f0a.js.map",
+    "static/css/2.fe359a49.chunk.css": "/petfriends/static/css/2.fe359a49.chunk.css",
+    "static/js/2.00b0ee2c.chunk.js": "/petfriends/static/js/2.00b0ee2c.chunk.js",
+    "static/js/2.00b0ee2c.chunk.js.map": "/petfriends/static/js/2.00b0ee2c.chunk.js.map",
+    "static/js/3.1fd5e392.chunk.js": "/petfriends/static/js/3.1fd5e392.chunk.js",
+    "static/js/3.1fd5e392.chunk.js.map": "/petfriends/static/js/3.1fd5e392.chunk.js.map",
+    "index.html": "/petfriends/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/petfriends/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.d43900f2.chunk.css.map": "/petfriends/static/css/main.d43900f2.chunk.css.map",
+    "static/js/2.00b0ee2c.chunk.js.LICENSE.txt": "/petfriends/static/js/2.00b0ee2c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/petfriends/static/media/Handycheera Regular.15b8c32f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75aa0f0a.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.00b0ee2c.chunk.js",
+    "static/css/main.d43900f2.chunk.css",
+    "static/js/main.c30e6022.chunk.js"
+  ]
+}
