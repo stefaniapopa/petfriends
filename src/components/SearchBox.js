@@ -8,6 +8,7 @@ const SearchBox = ({ searchfield, searchChange }) => {
                 type='search'
                 placeholder='Search Dogs..'
                 onChange={searchChange}
+                style={{ "border-radius": '130px'}}
             />
         </div>
     );
